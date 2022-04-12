@@ -41,7 +41,7 @@ class ResponsiveButton extends StatelessWidget {
               padding: const EdgeInsets.only(right: 20),
               child: Icon(
                 Icons.keyboard_arrow_right_outlined,
-                size: 40,
+                size: 38,
               )),
         ],
       ),
