@@ -164,10 +164,10 @@ class _HomePagesState extends State<HomePages> with TickerProviderStateMixin {
                                     "img/" + images.keys.elementAt(index)))),
                       ),
                       const SizedBox(
-                        height: 5,
+                        height: 8,
                       ),
                       Container(
-                        padding: EdgeInsets.only(left: 18),
+                        padding: EdgeInsets.only(left: 20),
                         child: AppLargeText(
                           text: images.values.elementAt(index),
                           size: 14,
