@@ -11,7 +11,7 @@ class AppLargeText extends StatelessWidget {
       {Key? key,
       this.colors = Colors.white70,
       required this.text,
-      this.size = 30,
+      this.size = 28,
       this.fontWeight = FontWeight.w100})
       : super(key: key);
 
