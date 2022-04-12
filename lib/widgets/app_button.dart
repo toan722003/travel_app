@@ -38,7 +38,7 @@ class AppButtons extends StatelessWidget {
             child: AppLargeText(
                 text: text!,
                 colors:Colors.black,
-        size: 20,
+        size: 22,
               ),
           )
           : Icon(
