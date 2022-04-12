@@ -32,7 +32,7 @@ class ResponsiveButton extends StatelessWidget {
           Container(
             padding: const EdgeInsets.only(left: 20),
             child: isResponsive==false?AppLargeText(
-              text: "Book trip now",
+              text: "Do you want book trip now",
               colors: Colors.black54,
               size: 20,
             ):Container(),
